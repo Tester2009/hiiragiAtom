@@ -32,7 +32,8 @@ Version
 
 Notice
 ------
-This version of hiiragiAtom not complete yet. ちょっとまってください
+This version of hiiragiAtom not complete yet.
+ちょっとまってください
 
 
 hiiragiAtom@2015
