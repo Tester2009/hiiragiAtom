@@ -58,6 +58,7 @@ function check_screen()
 	fi
 	fi
 }
+
 function main() 
 {
 if [ -a $CHECK_PATH ] # use -a to check file existance. deprecated. can be replace with -e
